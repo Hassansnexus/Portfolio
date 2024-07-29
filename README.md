@@ -16,12 +16,12 @@ I am a passionate and dedicated WordPress Developer specializing in Elementor Pr
 ### 2. Tree of Light Health
 **Description**: A brief description of the project.
 **Technologies Used**: Shopify, Custom Plugins
-**Live**: [Link to project]
+**Live**: [Tree Of Light Health](treeoflighthealth.com)
 
-### 3. Project Name
+### 3. The Smart Phone Medics
 **Description**: A brief description of the project.
 **Technologies Used**: Wix, Design
-**Live Demo**: [Link to project]
+**Live**: [The Smart Phone Medics](thesmartphonemedics.com)
 
 ## Skills
 
@@ -29,18 +29,22 @@ I am a passionate and dedicated WordPress Developer specializing in Elementor Pr
 - Elementor Pro
 - WooCommerce
 - Advanced Custom Fields (ACF)
+- Html
+- CSS
+- PHP
 - Custom Plugin Development
 - Shopify
 - Wix
 - GoDaddy
+- Booking Koala
 - Responsive Web Design
 
 ## Contact
 
 I am always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
-- **Email**: [your.email@example.com](mailto:ihassanraj@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hassanraj)
-- **Website**: [Your Portfolio Website](https://yourwebsite.com)
+- **Email**: [My Email](mailto:ihassanraj@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hassanraj)
+- **Website**: [My Portfolio Website](https://hassansnexus.github.io/Portfolio/)
 
 Thank you for visiting my portfolio repository. I look forward to connecting with you!
